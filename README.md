@@ -1,32 +1,8 @@
-**Please, do not add book pdfs or docs. They are copyrighted, it might end up closing this repo. So please DO NOT upload books, only notes.**
+**Lütfen kitap pdf'leri veya belgeleri eklemeyin. Telif hakkıyla korunuyorlar, bu reponun kapanmasıyla sonuçlanabilir. Bu yüzden lütfen kitap YÜKLEMEYİN, yalnızca not yükleyin.**
 
-# TurkeyLearningInitiative
+**Ayrıca bu notların kişisel mi alındığı yoksa hocaların mı verdiği, el yazısı mı yoksa bilgisayar da mı oluşturulduğu, hangi üniversiteye, hocaya, yıla ve döneme ait olduğu gibi bilgilere sahipseniz commit mesajınızda belirtmenizi rica ediyoruz.**
 
-This repository contains curriculum and course materials for the Turkey Learning Initiative (TLI), a project aimed at providing educational resources to those affected by the recent earthquakes in Turkey.
-
-The goal of TLI is to support learners in continuing their education despite the indefinite suspension of all levels of education, including university education, due to the aftermath of the disaster.
-
-## Contents
-In this repository, you will find:
-
-* A comprehensive curriculum covering a variety of subjects
-* Detailed course materials, including lecture slides and handouts
-* Additional resources, such as recommended readings and exercises
-
-
-## Getting started
-To start learning with the TLI materials, simply clone or download the repository to your local machine. The materials are intended to be self-contained, but if you have any questions or feedback, please feel free to open an issue in this repository.
-
-## Contributing
-We welcome contributions from the community! If you would like to contribute to the TLI project, please see our contributing guide for information on how to get involved.
-
-## License
-
-## Acknowledgments
-The TLI project would not be possible without the support of our contributors and the wider educational community. Thank you for your commitment to providing education to those in need.
-
-
-# Türkiye Öğrenme Girişimi
+# Türkiye Öğrenme İnisiyatifi
 
 Bu repo, Türkiye'de son depremlerden etkilenenlere eğitim kaynakları sağlamayı amaçlayan bir proje olan Türkiye Öğrenme Girişimi (TLI) için müfredat ve ders materyalleri içermektedir. 
 
@@ -88,7 +64,7 @@ Commit mesajınız bu durumda çok önemli.  "Commit", değişikliklerinizin dep
 
 # Pull Request
 
-Bu değişiklikler sadece sizin reponuzda görünür olacaktır. Bu değişikliklerin asıl repoya gidebilmesi için `puşş request` açmanız gerekir. Böylece asıl proje sahibi eklemek istediğiniz şeyleri inceler ve orijinal repoya ekler.
+Bu değişiklikler sadece sizin reponuzda görünür olacaktır. Bu değişikliklerin asıl repoya gidebilmesi için `pull request` açmanız gerekir. Böylece asıl proje sahibi eklemek istediğiniz şeyleri inceler ve orijinal repoya ekler.
 
 <img width="1512" alt="Screen Shot 2023-02-11 at 14 29 09" src="https://user-images.githubusercontent.com/72661473/218255588-52771ea8-4f29-4da6-816d-347ca1e53e76.png">
 
@@ -97,3 +73,34 @@ Reponuzda `Contribute` kısmında böyle bir mesaj göreceksiniz. `Open Pull Req
 https://user-images.githubusercontent.com/72661473/218255649-014ae5c1-8d43-4775-9f83-9e290f615e9b.mov
 
 Bu adımlardan sonra gerekli incelemelerden sonra kodunuz orijinal repoya eklenecektir.
+
+**Herhangi bir sorunuz olması durumunda bize ulaşabilirsiniz.**
+Email adreslerimiz:
+  * a.ayyuce.de@gmail.com
+  * gdenizbektass@gmail.com
+
+# TurkeyLearningInitiative
+
+This repository contains curriculum and course materials for the Turkey Learning Initiative (TLI), a project aimed at providing educational resources to those affected by the recent earthquakes in Turkey.
+
+The goal of TLI is to support learners in continuing their education despite the indefinite suspension of all levels of education, including university education, due to the aftermath of the disaster.
+
+## Contents
+In this repository, you will find:
+
+* A comprehensive curriculum covering a variety of subjects
+* Detailed course materials, including lecture slides and handouts
+* Additional resources, such as recommended readings and exercises
+
+
+## Getting started
+To start learning with the TLI materials, simply clone or download the repository to your local machine. The materials are intended to be self-contained, but if you have any questions or feedback, please feel free to open an issue in this repository.
+
+## Contributing
+We welcome contributions from the community! If you would like to contribute to the TLI project, please see our contributing guide for information on how to get involved.
+
+## License
+
+## Acknowledgments
+The TLI project would not be possible without the support of our contributors and the wider educational community. Thank you for your commitment to providing education to those in need.
+
